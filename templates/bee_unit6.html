@@ -1,0 +1,56 @@
+{%extends 'bee.html'%}
+{%block title%}Unit 6{%endblock title%}
+{%block content%}
+
+<H5>Ideal voltage source</h5>
+	<br>
+	<img src="/static/images/Unit 6/1.jpg" width="340px">
+	<br>
+
+	<P>An ideal voltage source can maintain the fixed voltage independent of the load resistance or the output current.
+	It has zero internal series resistance.</p>
+
+	<h5>Ideal current source</h5>
+	<br>
+	<img src="/static/images/Unit 6/2.jpg" width="340px">
+	<br>
+
+	<P>An ideal current source is a current source that supplies constant current to a circuit despite any other conditions present in the circuit. An ideal current source provides this constant current with 100% efficiency.
+	It has infinite parallel resistance</p>
+
+
+	<H5>KCL</h5>
+		<br>
+		<img src="/static/images/Unit 6/3.jpg" width="340px">
+		<br>
+
+		<p>
+			The algebraic sum of currents in a network of conductors meeting at a point is zero.
+		</p>
+		<h5>KVL</h5>
+		<p>The directed sum of the potential differences (voltages) around any closed loop is zero.<p>
+
+			<H5>Superposition Theorem</h5>
+				<br>
+				<img src="/static/images/Unit 6/4.jpg" width="340px">
+				<br>
+
+				<p>
+					The superposition theorem states that for a linear system (notably including the subcategory of time-invariant linear systems) the response (voltage or current) in any branch of a bilateral linear circuit having more than one independent source equals the algebraic sum of the responses caused by each independent source acting alone, where all the other independent sources are replaced by their internal impedances.
+				</p>
+				<h5>Thevenin's Theorem</h5>
+				<br>
+				<img src="/static/images/Unit 6/5.jpg" width="340px">
+				<br>
+				<p>
+					Any linear electrical network containing only voltage sources, current sources and resistances can be replaced at terminals A-B by an equivalent combination of a voltage source Vth in a series connection with a resistance Rth.
+					The equivalent voltage Vth is the voltage obtained at terminals A-B of the network with terminals A-B open circuited.
+					The equivalent resistance Rth is the resistance that the circuit between terminals A and B would have if all ideal voltage sources in the circuit were replaced by a short circuit and all ideal current sources were replaced by an open circuit.
+					If terminals A and B are connected to one another, the current flowing from A to B will be Vth/Rth. This means that Rth could alternatively be calculated as Vth divided by the short-circuit current between A and B when they are connected together.
+					In circuit theory terms, the theorem allows any one-port network to be reduced to a single voltage source and a single impedance.
+				</p>
+
+
+
+
+{%endblock content%}

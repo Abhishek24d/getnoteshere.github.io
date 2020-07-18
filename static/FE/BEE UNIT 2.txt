@@ -1,0 +1,66 @@
+﻿BEE UNIT 2
+
+Magnetic effect of electric current
+
+ The term "magnetic effects of current "  means that " a current flowing in a wire produces a magnetic field round it ". the magnetic effect of current was discovered by Oersted found that a wire carrying a current was able to deflect a magnetic needle. It concludes that a current flowing in a wire always gives rise to a magnetic field round it, the electric motor, telephone and radio, all utilize the magnetic effect of current .
+
+Cross and dot 
+
+In order to indicate the direction of current flow, when looking at a cross section of a wire, a "cross" (or "X") and a "dot" are used. A "cross" indicates the current is going into the page
+
+Fleming's right hand rule
+
+Fleming's right-hand rule (for generators) shows the direction of induced current when a conductor attached to a circuit moves in a magnetic field. It can be used to determine the direction of current in a generator's windings.
+
+When a conductor such as a wire attached to a circuit moves through a magnetic field, an electric current is induced in the wire due to Faraday's law of induction. The current in the wire can have two possible directions. Fleming's right-hand rule gives which direction the current flows.
+
+The thumb is pointed in the direction of the motion of the conductor relative to the magnetic field.
+
+The first finger is pointed in the direction of the magnetic field. (north to south)
+
+Then the second finger represents the direction of the induced or generated current within the conductor (from the terminal with lower electric potential to the terminal with higher electric potential, as in a voltage source)
+
+Cork screw rule
+
+The right hand screw rule can be used when a direction must be determined based upon a rotational direction, or vice versa. ... Therefore if the direction of rotation is know the fingers can be curled in this orientation and the thumb will point in the positive direction, and vice versa.
+
+Solenoid
+
+Solenoid is the generic term for a coil of wire used as an electromagnet. It also refers to any device that converts electrical energy to mechanical energy using a solenoid. The device creates a magnetic field from electric current and uses the magnetic field to create linear motion.
+
+Torid
+
+A solenoid is an electromagnet formed from a wire that carries current. Electromagnets have magnetic fields created from currents. The wire of a solenoid is often formed into a helical coil, and a piece of metal such as iron is often inserted inside. When a solenoid is bent into the shape of a circle or doughnut, it is called a toroid.
+
+MMF
+
+the magnetomotive force (mmf) is a quantity appearing in the equation for the magnetic flux in a magnetic circuit, often called Ohm's law for magnetic circuits.[1] It is the property of certain substances or phenomena that give rise to magnetic fieldswhere Φ is the magnetic flux and R is the reluctance of the circuit. It can be seen that the magnetomotive force plays a role in this equation analogous to the voltage V in Ohm's law: V = IR, since it is the cause of magnetic flux in a magnetic circuit.
+
+Magnetic flux
+
+ The magnetic flux (often denoted Φ or ΦB) through a surface is the surface integral of the normal component of the magnetic field flux density B passing through that surface. The SI unit of magnetic flux is the weber (Wb; in derived units, volt–seconds), and the CGS unit is the maxwell. 
+
+Permiability
+
+In electromagnetism, permeability is the measure of the resistance of a material against the formation of a magnetic field, otherwise known as distributed inductance in transmission line theory. Hence, it is the degree of magnetization that a material obtains in response to an applied magnetic field. Magnetic permeability is typically represented by the (italicized) Greek letter μ.
+
+The reciprocal of magnetic permeability is magnetic reluctivity.
+In SI units, permeability is measured in henries per meter (H/m), or equivalently in newtons per ampere squared (N⋅A−2). The permeability constant μ0, also known as the magnetic constant or the permeability of free space, is a measure of the amount of resistance encountered when forming a magnetic field in a classical vacuum. Until 20 May 2019, the magnetic constant had the exact (defined)[1] value μ0 = 4π × 10−7 H/m ≈ 12.57×10−7 H/m.
+
+Magnetic field strength
+
+Magnetic field strength, also called magnetic intensity or magnetic field intensity, the part of the magnetic field in a material that arises from an external current and is not intrinsic to the material itself. It is expressed as the vector H and is measured in units of amperes per metre.
+
+Fleming's left hand rule
+
+When current flows through a conducting wire, and an external magnetic field is applied across that flow, the conducting wire experiences a force perpendicular both to that field and to the direction of the current flow (i.e they are mutually perpendicular).
+
+The Thumb represents the direction of the Thrust on the conductor / Motion of the Conductor
+The Fore finger represents the direction of the magnetic Field
+The Centre finger represents the direction of the Current.
+
+Faraday's law
+
+The electromotive force around a closed path is equal to the negative of the time rate of change of the magnetic flux enclosed by the path.
+
+
